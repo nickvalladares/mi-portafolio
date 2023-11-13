@@ -336,8 +336,8 @@ section {
     flex-wrap: wrap;
     flex-direction: row;
     gap: 3rem;
-    /*justify-content: space-around;*/
-    justify-content: space-between;
+    justify-content: space-around;
+    /*justify-content: space-between;*/
 }
 
 article {
